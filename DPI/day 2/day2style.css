@@ -1,0 +1,16 @@
+.header{
+	width: 1200px;
+	height: 100px;
+	background:rgb(214, 218, 11);
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+}
+.logo img{
+	width: 100px;
+	height: 100px;
+}
+.menu{float: right;
+
+}
