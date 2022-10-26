@@ -1,0 +1,39 @@
+.header{
+    width: 1000px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.logo{
+    padding: 10px;
+    float: left;
+}
+.logo img{
+height: 80px;
+width: 80px;
+}
+.menu{
+    padding-top: 5px;
+    float: right;
+}
+.menu ul{
+    list-style: none;
+    float: right;
+}
+.menu li{
+float: left;
+margin: 10px;
+
+}
+.menu li a{
+    color: brown;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.slaider{
+    background-image: url("./img/bg-img-07-free-img-1-300x169.jpg");
+    background-size: cover;
+    padding: 60px;
+    text-align: center;
+    color: #fff;
+}
