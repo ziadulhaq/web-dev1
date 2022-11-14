@@ -1,0 +1,34 @@
+
+.one{
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 30px;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    text-align: center;
+    border-radius: 50%;
+    transform: translate(-50%);
+    
+}
+.site{
+
+    color: aqua;
+    top: 0;
+    right: 0;
+text-align: center;
+   position: absolute;
+    width: 50px;
+    height: 100vh;
+    background: linear-gradient(red,rgb(255, 255, 4));
+    
+}
+.tree{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 0);
+    color: beige;
+
+}
