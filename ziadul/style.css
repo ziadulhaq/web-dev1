@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(./assets/images/bg_main.gif) center;
+}
+.cont{
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.top_bar{
+    background: rebeccapurple;
+   
+    height: 30px;
+    line-height: 30px;
+    color: white;
+    font-size: 14px;
+    border-bottom: 2px solid red ;
+}
+.top_right p{
+    border-right: 1px solid whitesmoke;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.top_right a{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    height: 110px;
+}
+.logo_left{
+    line-height: 110px;
+}
+.sbar{
+    padding-top: 45px;
+}
+.sbar input{
+    width: 70%;
+}
+.logo1 img{
+    border-right: 1px solid rgb(161, 158, 158);
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.menu ul li{
+    border-right: 1px solid #cccc;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.sidebar img{
+padding-top: 5px;
+}
+.footerp{
+    font-size: 8px;
+}
