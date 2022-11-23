@@ -1,0 +1,146 @@
+/* top */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./assets/images/bg_main.gif) center;
+}
+.cont{
+    max-width: 1020px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.top{
+    height: 30px;
+    background-color: blueviolet;
+    border-bottom: 1px solid red;
+    color: white;
+    font-size: 14px;
+    line-height: 30px;
+}
+.top_right p{
+    border-right: 1px solid whitesmoke;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.top_right a{
+    color: white;
+    text-decoration: none;
+}
+/* top end */
+/* logo */
+.logo{
+    height: 110px;
+    border-bottom: 5px solid #cccc;
+}
+.logoleft{
+    line-height: 110px;
+}
+.search{
+    padding-top: 45px;
+}
+.search input{
+    width: 70%;
+    background-color: rgba(240, 235, 235, 0.8);
+}
+.search button{
+background-color: #cccc;
+border-radius: 5px;
+}
+.logo1{
+    border-right: 1px solid #cccc;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+.menu{
+    border-bottom: 5px solid #cccc;
+}
+.menu ul li{
+    border-right: 1px solid rgb(182, 182, 182);
+    padding-right: 5px;
+    margin-right: 5px;
+    
+}
+/* logo end */
+/* banner */
+.banner img{
+border: 1px solid red;
+padding: 10px;
+}
+/* banner end */
+
+.menu li a{
+    font-size: 14px;
+}
+.tabsin p{
+    text-align: center;
+    font-size: 14px;
+    color: #297101;
+}
+.tabsin img{
+    margin-left: 15px;
+}
+.notice h5{
+    color: #69308f;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.notice li a{
+    font-size: 14px;
+    text-decoration: none;
+    border-bottom: 1px solid #297101;
+    color: #333;
+}
+.notice button{
+    background-image: linear-gradient(to bottom, #666, #a6a6a6);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #A2A2A2;
+    padding: 0 5px;
+    color: #fff!important;
+    font-size: 14px;
+    margin-left: 50%;
+}
+.sidedown h5{
+    color: #6b2f91;
+}
+.sidedown button{
+    background-color: rgb(177, 177, 177);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #A2A2A2;
+    color: #fff;
+    font-size: 14px;
+}
+.sidedown select{
+    width: 80%;
+    background-color: rgb(219, 219, 219);
+    font-size: 15px;
+}
+.downside h6{
+    background-color: #609513;
+    color: white;
+    padding: 5px;
+    padding-top: 5px;
+  
+}
+.vajal img{
+    height: 200px;
+}
+.downside h5{
+    color: #6b2f91; 
+    padding-top: 10px;
+}
+.fmenu ul li{
+    border-right: 1px solid rgb(194, 194, 194);
+    padding-right: 5px;
+    margin-right: 5px; 
+    font-size: 15px;
+}
+.fdown p{
+    font-size: 15px;
+}
+.ffdown p{
+    font-size: 12px;
+}
